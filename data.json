@@ -1,7 +1,0 @@
-{
-  "tasks": [
-    { "id": 1, "title": "Complete Node.js exercise", "status": "in progress" },
-    { "id": 2, "title": "Review Express documentation", "status": "pending" },
-    { "id": 3, "title": "Submit assignment", "status": "pending" }
-  ]
-}
